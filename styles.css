@@ -152,3 +152,17 @@ h2 {
     transform: rotate(-90deg);
     transform-origin: right center;
 }
+
+.opções-acessibilidade{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.opções-acessibilidade button{
+    margin-bottom: 5px;
+}
+
+.apresenta-lista{
+    display: none;
+}
